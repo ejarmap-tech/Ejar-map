@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ejarmap-tech.github.io/Ejar-map/sitemap.xml
